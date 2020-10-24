@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603044103050.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2008672347",
+    "id" : "310039AA",
+    "lastKnownWriteTime" : 1603511356,
+    "last_content_update" : 1603511356906,
+    "path" : "~/UFM/4th_year/2ndo_Semestre/Data Product/Parcial_1_fase_2_git/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "93,31",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
